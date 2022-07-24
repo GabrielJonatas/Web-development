@@ -1,0 +1,66 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    font-size: 17;
+    font-family: Verdana;
+    background-image: linear-gradient(115deg,rgba(0,70,150,0.7),rgba(0,70,150,0.7)), url(https://lh3.googleusercontent.com/pw/AM-JKLUbMBXb4y4xjFJ8o6eRjpGYdEQGQkEUKKz5Qtcch4cVkttCfH-HIxDJIHehEv4QsNGkB18juNVyPS3HQSVLze0UZab3nVlJIfn2ryRm1B_tY0kFP2PZ-169er1-YzEb5ywaS1yXj7O37A32_-thXNLK=w501-h667-no?authuser=0);
+    background-size: 150px 150px ;
+  }
+  
+  header{
+    color: white;
+    text-align: center;
+    padding: 1em 0;
+  }
+  
+  form{
+    width: 50vw;
+    margin: 0 auto;
+    background:rgba(0,0,20,0.8);
+    padding: 0 2em;
+  }
+  
+  fieldset{
+    border: none;
+  }
+  
+  label {
+    color: white;
+    display:block;
+    margin: 20px 0;
+  }
+  
+  label[id="optional"]{
+    display:inline;
+    font-size: 12;
+  }
+  
+  select{
+    display:block;
+    margin: 7px 0;
+  }
+  
+  input[type="radio"]{
+    margin: 2px 0;
+  }
+  
+  .NEA{
+    display:block;
+    width: 100%;
+    height: 7vh;
+    margin-top: 10px;
+  }
+  
+  textarea{
+    width: 100%;
+    margin-top: 10px;
+  }
+  
+  input[type="submit"]{
+    width: 100%;
+    height: 9vh;
+    color:white;
+    font-size: 17;
+    background-color: rgb(0,180,150);
+  }
