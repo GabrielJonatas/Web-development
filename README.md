@@ -1,2 +1,2 @@
 # ProjectsWeb
-Projetos para consolidar conceitos durante o estudo.
+Projetos para consolidar conceitos durante os estudos.
