@@ -1,2 +1,2 @@
 # ProjectsWeb
-Projects that i made while studying web development
+Projetos para consolidar conceitos durante o estudo.
