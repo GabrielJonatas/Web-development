@@ -1,0 +1,1 @@
+Script que solicita um número para o usuário e utiliza object.Math para informar-lo algumas caracteristicas desse número.
