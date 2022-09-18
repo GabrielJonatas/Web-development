@@ -1,0 +1,2 @@
+Utilizando os conceitos de date em JavaScript, fiz esse projeto que mostra o horário e local. Na pasta js, há também uma solução mais curta
+que é o data.LocaleString, porém na solução principal foi possível mais opções de estilização com CSS.
